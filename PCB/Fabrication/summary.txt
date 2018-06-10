@@ -1,0 +1,28 @@
+@brief 		Selection of preferred PCB & PCBA houses
+@details 	by experience or referral
+@auth 		Justin Reina
+@date 		11/5/17
+
+@section 	PCB Houses
+	PCBWay
+	PCBGogo
+	Sunstone
+	Seeed Fusion
+	
+@section 	PCBA Houses
+	PCBWay
+	PCBGogo
+	Sunstone (Screaming Circuits)
+	Seeed Fusion
+
+@section 	Reference Sources
+		Sunstone - Jmr Experience
+		PCBWay - Jmr Experience, Bing Chen Experience & Ref
+		PCBGogo - Thomas Aldridge Experience & Ref
+		Seeed Fusion - Research
+
+@section 	Opens
+	Compare Prices
+	Compare Build Times
+	List procedures (all)
+

@@ -1,0 +1,54 @@
+Wifi ref - https://en.wikipedia.org/wiki/Unified_Modeling_Language
+Suppl Wiki ref - https://en.wikipedia.org/wiki/Applications_of_UML
+
+- In 1994 UML was originally motivated by the desire to standardize the disparate notational systems and approaches to software design developed by a set of peers at Rational Software
+
+- In 1997 UML was adopted as a standard by the Object Management Group (OMG) and has been managed by this organization ever since
+
+- In 2005 UML was also published by the ISO as an approved ISO standard
+
+UML offers a way to visualize a system's architectural blueprints in a diagram including elements such as:
+	- any activities(jobs)
+    - individual components of the system
+		*and how they can interact with other software components
+    - how the system will run
+    - how entities interact with others (components and interfaces)
+    - external user interface
+
+- Although originally intended for object-oriented design documentation, UML has been extended to a larger set of design documentation, and been found useful in many contexts
+
+- UML 2 has many types of diagrams, which are divided into two categories
+	*Structure Diagrams - Emphasis on the things that must be present in the system being modeled
+		**Component Diagram
+		**Class Diagram
+	*Behaviour Diagrams - Emphasis on what must happen in the system being modeled
+		**Activity Diagram
+		**Use Case Diagram
+		**Interaction Diagrams - A subset of behaviour diagrams, emphasize the flow of control and data among the things in the system being modeled
+			***Sequence Diagram
+			***Communication Diagram
+	*Justin is most acclimated with Behavior Diagrams
+		**Activity Diagrams
+		**Use Case Diagrams
+		**Sequence Diagrams
+
+- Meta-Object Facility (MOF) is an Object Management Group (OMG) standard for model-driven engineering
+	
+- UML has been found useful in many design contexts. It has been treated, at times, as a design silver bullet, which has led to problems in its usage
+	*Misuse of it includes excessive usage of it (design every little part of the system's code with it)
+	*Assuming that anyone can design anything with it
+
+- Model-driven engineering (MDE) is a software development methodology that focuses on creating and exploiting domain models, which are conceptual models of all the topics related to a specific problem
+
+- UML is not a single language, but a set of notations, syntax and semantics to allow the creation of families of languages for particular applications
+
+- Topics
+	Extensibility Mechanisms (Profiles: Stereotyps, Tags, Constraints) -  generic extension mechanism for customizing UML models for particular domains and platforms
+	
+
+
+
+
+
+
+
