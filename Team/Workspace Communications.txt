@@ -1,0 +1,29 @@
+@brief 		Workspace Communication Methods
+@details 	x
+@auth 		Justin Reina
+@date 		8/7/19
+
+
+@section 	Common
+	• Skype
+	• Slack
+	• Email
+
+@section 	Popular
+	• Trello
+	• Basecamp
+
+@section 	Alternative
+	• Discord
+	• Zulip
+	• Hipchat 
+
+@section 	Conventional
+	• Facebook IM
+	• LinkedIn IM
+	• Google Hangouts
+	• Mobile IM
+
+@section 	Ideas
+	• https://blogin.co/blog/15-excellent-apps-for-internal-communication-55/
+	
