@@ -1,0 +1,47 @@
+DXP VHDL Logic Compiler 3.7.0.86 (23/Jul/03)
+Copyright (c) 2002-2003 Altium Limited All Rights Reserved
+Compiling for: Xilinx EDIF family spartan2e
+-h
+-l ieee "C:\PROGRAM FILES\ALTIUM2004\LIBRARY\VHDL_LIB\ieee.vhd" "C:\PROGRAM FILES\ALTIUM2004\LIBRARY\VHDL_LIB\synopsys.vhd"
+-l synopsys "C:\PROGRAM FILES\ALTIUM2004\LIBRARY\VHDL_LIB\attribut.vhd"
+-e KeyPadScanner(structure)
+-f xilinx
+-p spartan2e
+-g "c:\program files\altium2004\examples\core integration\lcd controller and keypad\keypadscanner\Out\Xilinx Spartan2E\keypadscanner_Synth.log"
+-o "c:\program files\altium2004\examples\core integration\lcd controller and keypad\keypadscanner\Out\Xilinx Spartan2E\keypadscanner.edn"
+
+"C:\Program Files\Altium2004\Examples\Core Integration\LCD Controller And Keypad\KeypadScanner\Out\Xilinx Spartan2E\KeyPadScanner.VHD"
+
+analyze....                           0 sec
+TOPLEVEL: KeypadScanner(structure)
+elaborate design "KeypadScanner"
+C:\Program Files\Altium2004\Examples\Core Integration\LCD Controller And Keypad\KeypadScanner\Out\Xilinx Spartan2E\KeyPadScanner.VHD line 169 # 409: WARNING: Component : U26 : No Entity CDIV4 bound to this instance.
+C:\Program Files\Altium2004\Examples\Core Integration\LCD Controller And Keypad\KeypadScanner\Out\Xilinx Spartan2E\KeyPadScanner.VHD line 176 # 409: WARNING: Component : U25 : No Entity CDIV64 bound to this instance.
+C:\Program Files\Altium2004\Examples\Core Integration\LCD Controller And Keypad\KeypadScanner\Out\Xilinx Spartan2E\KeyPadScanner.VHD line 183 # 409: WARNING: Component : U24 : No Entity CDIV64 bound to this instance.
+C:\Program Files\Altium2004\Examples\Core Integration\LCD Controller And Keypad\KeypadScanner\Out\Xilinx Spartan2E\KeyPadScanner.VHD line 190 # 409: WARNING: Component : U23 : No Entity D2_4EB bound to this instance.
+C:\Program Files\Altium2004\Examples\Core Integration\LCD Controller And Keypad\KeypadScanner\Out\Xilinx Spartan2E\KeyPadScanner.VHD line 198 # 409: WARNING: Component : U22 : No Entity CB2CEB bound to this instance.
+C:\Program Files\Altium2004\Examples\Core Integration\LCD Controller And Keypad\KeypadScanner\Out\Xilinx Spartan2E\KeyPadScanner.VHD line 207 # 409: WARNING: Component : U21 : No Entity INV bound to this instance.
+C:\Program Files\Altium2004\Examples\Core Integration\LCD Controller And Keypad\KeypadScanner\Out\Xilinx Spartan2E\KeyPadScanner.VHD line 214 # 409: WARNING: Component : U20 : No Entity E4_2B bound to this instance.
+C:\Program Files\Altium2004\Examples\Core Integration\LCD Controller And Keypad\KeypadScanner\Out\Xilinx Spartan2E\KeyPadScanner.VHD line 221 # 409: WARNING: Component : U19 : No Entity INV4B bound to this instance.
+C:\Program Files\Altium2004\Examples\Core Integration\LCD Controller And Keypad\KeypadScanner\Out\Xilinx Spartan2E\KeyPadScanner.VHD line 228 # 409: WARNING: Component : U18 : No Entity INV4B bound to this instance.
+C:\Program Files\Altium2004\Examples\Core Integration\LCD Controller And Keypad\KeypadScanner\Out\Xilinx Spartan2E\KeyPadScanner.VHD line 235 # 409: WARNING: Component : U17 : No Entity FD bound to this instance.
+C:\Program Files\Altium2004\Examples\Core Integration\LCD Controller And Keypad\KeypadScanner\Out\Xilinx Spartan2E\KeyPadScanner.VHD line 243 # 409: WARNING: Component : U16 : No Entity FD bound to this instance.
+C:\Program Files\Altium2004\Examples\Core Integration\LCD Controller And Keypad\KeypadScanner\Out\Xilinx Spartan2E\KeyPadScanner.VHD line 251 # 409: WARNING: Component : U15 : No Entity FD bound to this instance.
+C:\Program Files\Altium2004\Examples\Core Integration\LCD Controller And Keypad\KeypadScanner\Out\Xilinx Spartan2E\KeyPadScanner.VHD line 259 # 409: WARNING: Component : U14 : No Entity FD bound to this instance.
+C:\Program Files\Altium2004\Examples\Core Integration\LCD Controller And Keypad\KeypadScanner\Out\Xilinx Spartan2E\KeyPadScanner.VHD line 267 # 409: WARNING: Component : U13 : No Entity NAND4B bound to this instance.
+C:\Program Files\Altium2004\Examples\Core Integration\LCD Controller And Keypad\KeypadScanner\Out\Xilinx Spartan2E\KeyPadScanner.VHD line 274 # 409: WARNING: Component : U12 : No Entity AND4S bound to this instance.
+C:\Program Files\Altium2004\Examples\Core Integration\LCD Controller And Keypad\KeypadScanner\Out\Xilinx Spartan2E\KeyPadScanner.VHD line 284 # 409: WARNING: Component : U11 : No Entity FD4CB bound to this instance.
+C:\Program Files\Altium2004\Examples\Core Integration\LCD Controller And Keypad\KeypadScanner\Out\Xilinx Spartan2E\KeyPadScanner.VHD line 293 # 409: WARNING: Component : U10 : No Entity FDC bound to this instance.
+   assign  :                          0 sec
+   assign  :                          0 sec
+   assign  :                          0 sec
+   assign  :                          0 sec
+   assign  :                          0 sec
+   assign  :                          0 sec
+   assign  :                          0 sec
+elaborate "KeypadScanner"             0 sec
+optimize "KeypadScanner"....          0 sec
+   macrocell instances = 17
+format....                            0 sec
+no errors.
+compile time = 0 sec
