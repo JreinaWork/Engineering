@@ -1,0 +1,16 @@
+Starts With
+	(PRS)	Problem Statement
+
+Moves Into
+	(DPR)	Design Prompt
+
+Begins With
+	(PDRD)	Prototype Definition & Requirements
+
+Becomes
+	(PRD)	Product Requirements
+	(IDD)	Internal Description Document
+
+Delivered As
+	(PDD)	Product Description
+	(Man)	User's Manual

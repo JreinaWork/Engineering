@@ -1,0 +1,19 @@
+
+<document title> - <date> <author>
+
+<misc doc notes>
+
+		   
+/********************************************************************************************/
+/*                              Section Title - Section Descrip                             */
+/********************************************************************************************/
+- Lines are 94 characters max, like the header above this line
+
+- Note items are seperated by one line of space, sections two lines
+
+
+/********************************************************************************************/
+/*                              Section Title - Another Section                             */
+/********************************************************************************************/
+- 
+

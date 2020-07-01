@@ -1,0 +1,38 @@
+
+@brief 		Notepad++ Doc Generation Notes
+@details 	Ref Instructions creating a readme.txt
+@auth 		Justin Reina
+@date 		6/29/19
+
+@section 	Goal
+	Clean notes for business communications
+	
+@section 	Tools
+	Notepad++ (v7.7)
+	Microsoft Print to PDF (Win10)
+	Sectioned Text.txt
+	
+@section 	Procedure
+	• Copy "Sectioned Text.txt" to "readme.txt"
+	
+	• Open with Notepad++
+	
+	• Update header content (e.g. 'brief')
+	
+	• Populate content (e.g. 'Summary' and 'Steps')
+	
+	• Place one extra space at top for appearance
+	
+	• Apply print settings (see 'PrintCfg.png')
+		*Loc: 		'Settings->Preferences->Print'
+		*Header:
+			Left:	"Printing Notes"
+		*Footer:
+			Left:	"JMR Confidential 2019."
+			Middle:	"Page $(CURRENT_PRINTING_PAGE) of 1"
+			Right:	"(6/29/2019)"
+		
+	Print (Microsoft Print to PDF)
+	
+	Release
+
