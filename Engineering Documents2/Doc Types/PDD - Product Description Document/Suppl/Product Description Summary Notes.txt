@@ -1,0 +1,26 @@
+
+@brief 		Product Description Summary Notes
+@details 	Example Document Sections
+@auth 		Justin Reina
+@date 		11/16/18
+
+@section 	Sections to Consider
+	User Definition 			(M)
+	Use Case Summary (1-2 sentences or ¶)
+	Product Value Statement		(M)
+	Design Selection			(M)
+	System Description & Architecture
+	System Design by subsystem	(M)
+	Design Modularization 		(M)
+	Features
+	External Interfaces (I/O, Media, Sensors, etc.)
+	Power System (Sources, Storage, Control, Management)
+	Ratings & Compliance (e.g. ISO, FCC, IP, etc.)
+	Reference Content (HW, Dev, Doc, Example, etc.)
+	Path to product or result 	(M)
+
+@section 	Notes
+	- Target is 1-2 pages length, 0.5" margins & size-12 font
+	
+	- (M) - 'maybe, a section for consideration'
+

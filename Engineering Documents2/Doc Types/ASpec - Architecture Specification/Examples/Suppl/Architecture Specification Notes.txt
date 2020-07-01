@@ -1,0 +1,28 @@
+@brief 		xTAG Architecture Specification
+@details 	Notes in preparation for generation
+@auth 		Justin Reina
+@date 		8/6/18
+
+@section 	Sections
+
+Customer Request
+	Customer
+	Operating Environment
+	Needs
+	Use
+	Constraints
+	Targets
+
+Device Description
+	Device Theory
+	Functions
+	Features
+
+Proof of Concept
+	PoC Objective
+	Level Description
+
+Device Design
+	HW Design
+	Tech Selection
+	Architecture Description
